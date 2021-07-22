@@ -1,0 +1,69 @@
+###############################
+	
+###############################
+
+<!DOCTYPE html5> #tipo de arquivo html
+<html5 lang="pt-br"> #idioma do site
+
+<head> #abriu o cabecario
+    <meta charset="UTF-8"/> #resolve problema de acentuacao
+    <title>Tudo sobre Google Glass</title>#abriu e encerrou o titulo
+
+</head>#finaliza o cabecario
+<body>
+<div id="interface">#delimitacao da pagina
+
+    <hgroup>#agrupando um titulo
+    <h1>Google Glass:</h1>
+    <h2>A revolução do Google está chegando</h2>
+    </hgroup>#Encerramento do agrupamento
+
+<img src="_imagens/glass-oculos-preto-peq.png">#Adiciona uma imagem
+
+</div>
+</body>
+<html>
+
+##############################
+	Símbolos:
+##############################
+
+    &lt;
+    &gt;
+    &le;
+    &ge; <br/>
+
+    &pound;
+    &yen;
+    &euro; <br/>
+
+    &copy;
+    &reg;
+    &trade; <br/>
+    
+    &permil;
+    &sum;
+    &infin;
+    &times;
+    &plusmn;
+    &oplus;
+    &radic;
+    &ne; <br/>
+
+    &Delta;
+    &Lambda;
+    &omega;
+    &phi; <br/>
+
+    &larr;
+    &rarr;
+    &uarr;
+    &darr;
+    &harr; <br/>
+
+    &spades;
+    &clubs;
+    &hearts;
+    &diams;
+
+###############################
